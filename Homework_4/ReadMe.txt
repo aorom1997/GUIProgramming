@@ -23,5 +23,3 @@ http://cs.uml.edu/~arom/Hw3/HW3_sourceCode/index.html
 http://cs.uml.edu/~arom/index.html
 
 http://cs.uml.edu/~arom/Hw2/ChocoCake.html
-
-https://www.uml.edu/education/become-teacher
