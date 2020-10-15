@@ -1,0 +1,46 @@
+/* 
+Name: Anthony Rom
+Email: anthony_rom@student.uml.edu
+Affiliation: UMass Lowell Senior; Computer Science Major, UTeach Minor
+Date: Sept, 14 2020
+Descripti on: This css file is to showcase the progress and practice of 
+    css for styling ChocoCake.html
+*/
+
+
+body {
+    background-color: #FFB556;
+
+    font-family: Arial, Verdana, sans-serif;
+    margin:20px;
+}
+
+.container-1{
+    width:500px;
+}
+
+
+.box-1 {
+	background-color:#FFFDC8;
+       
+        padding-bottom: 5px;
+	padding-left: 5px;
+        margin-left: 10px;
+}
+
+
+.container-2{
+    width:960px;
+    
+}
+
+
+.box-2 {
+        background-color:#FFDD79;
+		
+
+        padding-bottom: 5px;
+        padding-left: 5px;
+        margin-left: 10px;
+}
+

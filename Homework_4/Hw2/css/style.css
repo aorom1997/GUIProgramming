@@ -1,0 +1,17 @@
+/* 
+Name: Anthony Rom
+Email: anthony_rom@student.uml.edu
+Affiliation: UMass Lowell Senior; Computer Science Major, UTeach Minor
+Date: Sept, 14 2020
+Descripti on: This is a short styling of the index.html file. More css 
+    will be done in cake.css
+*/
+
+body {
+    background-color: #51B5FF;
+
+    font-size: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    line-height: 1.5em;
+}
+

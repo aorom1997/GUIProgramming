@@ -1,0 +1,115 @@
+/*
+Name: Anthony Rom
+Email: anthony_rom@student.uml.edu
+Affiliation: UMass Lowell Senior; Computer Science Major, UTeach Minor
+Date: Sept 25, 2020
+Description: This css file is to edit the in html file for homework 3
+*/
+
+
+header, hgroup, nav, footer, figure, figcaption, aside, section, article {
+	display: block;
+}
+header{
+	background-image: url('sunset.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+	background-color: #000033; /* from template dt tag */
+	color: white;
+}
+
+body {
+	background-image: url('ptrbackground.jpg');
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{ /* main area */
+  margin:auto;
+	width: 80%;
+	min-width: 600px;
+	background-color: skyblue;
+}
+
+#content{ /* main information */
+	list-style-image: url('marker.gif');
+	margin-left: 200px;
+	background-color: white;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#content > ul{ /* shifting the list style */
+	list-style-position: inside;
+}
+
+#contact{
+	font-size: 90%;
+  padding-left: 20px;
+}
+
+.resort{
+	font-weight: bold;
+	color: #5F798F;
+}
+
+nav{
+	width: 200px;
+	float:left;
+}
+
+nav ul {
+	font-size: 1.2em;
+	list-style: none;
+}
+
+nav a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #1E3040;
+}
+
+nav a:hover {
+	color: #FFFFFF;
+}
+
+h1 {
+	margin-bottom: 0;
+	padding: 10px;
+}
+
+h2 {
+	color: #3399CC;
+	padding-left: 20px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+h1,h2 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+dt {
+	color: #000033;
+}
+
+footer {
+	font-size: 70%;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", serif;
+	margin-left: 200px;
+	padding: 20px;
+	padding-left: 30px;
+	background-color: white;
+}
+
+img{
+	float: left; /* move img to the left, allowing text on the right */
+	margin: 0 20px;
+}
+
+p{
+	padding-left: 20px;
+}
