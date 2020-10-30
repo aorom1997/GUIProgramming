@@ -11,6 +11,6 @@ and container for styling.
 
 All links:
 
-https://github.com/aorom1997/GUIProgramming/tree/main/Homework5
+http://cs.uml.edu/~arom/Hw5/main.html
 
 https://github.com/aorom1997/GUIProgramming
