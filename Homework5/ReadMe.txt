@@ -10,3 +10,7 @@ Description: I feel that I was successful. I was able to add user input and meth
 and container for styling. 
 
 All links:
+
+https://github.com/aorom1997/GUIProgramming/tree/main/Homework5
+
+https://github.com/aorom1997/GUIProgramming
